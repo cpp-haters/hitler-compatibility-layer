@@ -1,6 +1,6 @@
 # hitler-compatibility-layer
 
-| Englisch | Normal pepole language |
+| Englisch | Normale Leutesprache |
 | ------------- |:-------------:|
 | if | ob |
 | else | noch |
