@@ -3,6 +3,7 @@
 // https://github.com/cpp-haters/hitler-compatibility-layer
 
 #define if ob
+#define else noch
 #define or oder
 #define not nein
 #define true ja
