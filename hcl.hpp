@@ -22,3 +22,14 @@
 #define statisch static
 #define fortsetzen continue
 #define Freund friend
+#define dieses this
+#define dieser this
+#define diese this
+#define Vorlage template
+#define versuchen try
+#define werfen throw
+#define fangen catch
+#define neu new
+#define loschen delete
+#define Namenraum namespace
+#define bleibend const
