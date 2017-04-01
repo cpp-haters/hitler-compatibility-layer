@@ -2,10 +2,11 @@
 // Licensed under MIT License
 // https://github.com/cpp-haters/hitler-compatibility-layer
 
-#define if ob
-#define else noch
-#define or oder
-#define not nein
-#define true ja
-#define true wahr
-#define false falsch
+#define ob if
+#define noch else
+#define oder or
+#define nein not
+#define ja true
+#define wahr true
+#define falsch false
+#define fur for
