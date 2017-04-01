@@ -17,3 +17,8 @@
 #define gesichert protected
 #define privat private
 #define Ruckkehr return
+#define brechen break
+#define Falle case
+#define statisch static
+#define fortsetzen continue
+#define Freund friend
