@@ -10,3 +10,10 @@
 #define wahr true
 #define falsch false
 #define fur for
+#define Klasse class
+#define Struktur struct
+#define Offentlichkeit public
+#define geschutzt protected
+#define gesichert protected
+#define privat private
+#define Ruckkehr return
