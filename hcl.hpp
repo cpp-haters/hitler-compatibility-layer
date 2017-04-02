@@ -8,6 +8,7 @@
 #define nein not
 #define ja true
 #define wahr true
+#define richtig true
 #define falsch false
 #define fur for
 #define Klasse class
