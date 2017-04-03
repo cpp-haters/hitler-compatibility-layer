@@ -27,6 +27,7 @@
 #define dieser this
 #define diese this
 #define Vorlage template
+#define Modellname typename
 #define versuchen try
 #define werfen throw
 #define fangen catch
